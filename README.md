@@ -45,7 +45,7 @@ For my learning in Holberton School
 
 ## Contributing
 
--- Santiago Yanguas - Holberton Student
+-- Diego Ramos - Holberton Student
 
 ## Authors
 
